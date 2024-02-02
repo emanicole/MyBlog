@@ -1,0 +1,119 @@
+.menu {
+    margin-left: 100px;
+    margin-top: 20px;
+    color:dimgrey;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    display: inline-block;
+    font-weight: 300;
+}
+
+.menu:hover {
+    color:black;
+    font-weight: 1000;
+}
+
+.title {
+    margin-left: 350px;
+    width: 800px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    margin-top: 100px;
+    display: block;
+}
+
+.under_title {
+    color:brown;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+
+.first {
+    margin-left: 350px;
+}
+
+.image {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.descript {
+    width: 500px;
+    display: block;
+    margin: 50px auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    font-size: 15px;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background-color:palegoldenrod;
+}
+
+.subscribe {
+    padding: 10px;
+    background-color:palegoldenrod;
+}
+
+.subscribe input {
+    width: 200px;
+    padding: 5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.subscribe button {
+    background-color:blanchedalmond;
+    border-color:sandybrown;
+    padding: 5px 10px;
+    color:peru;
+    font-weight: bold;
+}
+
+.review {
+    margin-top: 50px;
+    border: 1px solid black;
+    padding: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    font-size: 15px;
+}
+
+.rating {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.star {
+    color:darkorange;
+}
+
+input[type="text"], input[type="email"], select, textarea {
+    font-family:'Courier New', Courier, monospace;
+
+    width: 100%;
+    padding: 12px;
+    border: 1px solid gray;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: 1000;
+    color: black;
+}
+
+option {
+        color: black;
+}
+
+.exceptie {
+    color: gray;
+}
+
+.superlative {
+    color:darkgoldenrod;
+    font-weight:1000;
+}
